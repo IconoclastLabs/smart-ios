@@ -12,4 +12,4 @@ Run this command to install the template
 
 Create your project using this template!
 
-  `$ motion create --template=motiontemplate <myappname>`
+  `$ motion create --template=smart-ios <myappname>`
