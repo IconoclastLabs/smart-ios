@@ -8,7 +8,7 @@ Current `motion create --template=ios` does not have .gitignore or bundler, and 
 ## Install Template
 Run this command to install the template
 
-  `$ git clone git@github.com:IconoclastLabs/smart-ios.git ~/Library/RubyMotion/template/motiontemplate`
+  `$ git clone git@github.com:IconoclastLabs/smart-ios.git ~/Library/RubyMotion/template/smart-ios`
 
 Create your project using this template!
 
