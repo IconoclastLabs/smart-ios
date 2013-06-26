@@ -1,21 +1,16 @@
 smart-ios
 =========
 
-start template for RubyMotion that includes gitignore and bundler
+start template for RubyMotion that includes bundler
 
-Current `motion create --template=ios` does not have .gitignore or bundler, and this makes me sad.
+## About
+Current `motion create --template=ios` does not have bundler, and this makes me sad.
 
-## Install Template
-Run this command to install the template
+## Install and Use Template
+You can use this template straight off github if you have RubyMotion >= 2.3
 
-  `$ git clone git@github.com:IconoclastLabs/smart-ios.git ~/Library/RubyMotion/template/smart-ios`
+  `$ motion create --template=git@github.com:IconoclastLabs/smart-ios.git <myappname>`
 
-## Use Template
-Create your project using this template!
-
-  `$ motion create --template=smart-ios <myappname>`
-
-## Stay Current
-The following command should pull the latest code for this template to be used in future `motion create` use!
-
-  `$ GIT_DIR=~/Library/RubyMotion/template/smart-ios/.git git pull origin master`
+Subsequent uses of the aforementioned create with git template will do a pull of latest from this repo.
+  
+  
