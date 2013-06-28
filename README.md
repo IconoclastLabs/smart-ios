@@ -11,7 +11,7 @@ You can use this template straight off github if you have RubyMotion >= 2.3
 
   `$ motion create --template=git@github.com:IconoclastLabs/smart-ios.git <myappname>`
   
-This will pull down the template repo locally into your ~/Library/RubyMotion/template path, and 
+This will pull down the template repo locally into your `~/Library/RubyMotion/template` path, and 
 subsequent uses of the aforementioned `create` with this git url template will do a 
 `git pull origin master` of this repo.
   
