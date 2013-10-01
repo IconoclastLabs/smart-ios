@@ -1,6 +1,14 @@
 smart-ios
 =========
 
+# Death Notice
+## Don't use this anymore - After lots of spirited debate, RM 2.7+ comes with Bundler!
+### See blog post on the release [here](http://blog.rubymotion.com/post/59390449567/new-in-rubymotion-versioning-bundler-run-on-device)
+
+
+OLLLLLLLLLLLLLDDDD
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 A smarter starting template for RubyMotion that includes Bundler and its boilerplate to the Rakefile.
 
 ## About
